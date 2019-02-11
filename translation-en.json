@@ -1,1 +1,8 @@
 
+{
+  "ERRORS_OCCURRED_FIX_THEM": "There are some errors, please fix them:",
+  "KEY_minlength_SUB_requiredLength:[value]_SUB_actualLength:[value]": "The input is too short, minimum is:[value], actual is:[value]",
+  "KEY_maxlength_SUB_requiredLength:[value]_SUB_actualLength:[value]": "The input is too long, maximum is:[value], actual is:[value]",
+  "INPUT_NOT_VALID": "The input is not valid",
+  "INPUT_PASSWORD_NOT_VALID": "The password must be at least 8 characters and must contain at least 3 of this rules:<br>- At least one uppercase character<br>- At least one lowercase character<br>- At least one special character<br>- At least one number"
+}
