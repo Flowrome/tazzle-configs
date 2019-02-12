@@ -5,5 +5,5 @@
   "KEY_maxlength_SUB_requiredLength:[value]_SUB_actualLength:[value]": "The input is too long, maximum is:[value], actual is:[value]",
   "INPUT_NOT_VALID": "The input is not valid",
   "INPUT_PASSWORD_NOT_VALID_BCKP_1": "The password must be at least 8 and less than 20 and no whitespaces characters and must contain at least 3 of this rules:<br>- At least one uppercase character<br>- At least one lowercase character<br>- At least one special character<br>- At least one number",
-  "INPUT_PASSWORD_NOT_VALID": "- At least 8 character<br>- Less than 20 character<br>- No whitespaces<br><br><span class="bold">At least 3 of the one below:</span>- At least one uppercase character<br>- At least one lowercase character<br>- At least one special character<br>- At least one number"
+  "INPUT_PASSWORD_NOT_VALID": "- At least 8 character<br>- Less than 20 character<br>- No whitespaces<br><br><span class='bold'>At least 3 of the one below:</span>- At least one uppercase character<br>- At least one lowercase character<br>- At least one special character<br>- At least one number"
 }
